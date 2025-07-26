@@ -47,7 +47,7 @@ export const Footer: React.FC = () => {
   const socialLinks = [
     { icon: Github, href: 'https://github.com/QubComputing/Qub_Studio', label: 'GitHub' },
     { icon: Twitter, href: 'https://x.com/qubcomputing', label: 'Twitter' },
-    { icon: Linkedin, href: 'https://linkedin.com/company/qubcomputing', label: 'LinkedIn' },
+    { icon: Linkedin, href: 'https://linkedin.com/in/qubcomputing', label: 'LinkedIn' },
     { icon: Mail, href: 'mailto:qubcomputing@gmail.com', label: 'Email' },
   ];
 
