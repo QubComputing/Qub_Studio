@@ -45,10 +45,10 @@ export const Footer: React.FC = () => {
   };
 
   const socialLinks = [
-    { icon: Github, href: 'https://github.com/qub', label: 'GitHub' },
-    { icon: Twitter, href: 'https://twitter.com/qub', label: 'Twitter' },
-    { icon: Linkedin, href: 'https://linkedin.com/company/qub', label: 'LinkedIn' },
-    { icon: Mail, href: 'mailto:hello@qub.dev', label: 'Email' },
+    { icon: Github, href: 'https://github.com/QubComputing/Qub_Studio', label: 'GitHub' },
+    { icon: Twitter, href: 'https://x.com/qubcomputing', label: 'Twitter' },
+    { icon: Linkedin, href: 'https://linkedin.com/company/qubcomputing', label: 'LinkedIn' },
+    { icon: Mail, href: 'mailto:qubcomputing@gmail.com', label: 'Email' },
   ];
 
   return (
